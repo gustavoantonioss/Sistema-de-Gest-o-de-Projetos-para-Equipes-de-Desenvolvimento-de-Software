@@ -1,2 +1,2 @@
-# Sistema-de-Gest-o-de-Projetos-para-Equipes-de-Desenvolvimento-de-Software
+# Sistema-de-Gestao-de-Projetos-para-Equipes-de-Desenvolvimento-de-Software
 Para
