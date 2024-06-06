@@ -7,6 +7,10 @@ Nosso Sistema de Gestão de Projetos tem o objetivo de melhorar a eficiência e 
 
 # Protótipo do Sistema
 
+![Prototipo00](https://github.com/gustavoantonioss/Sistema-de-Gest-o-de-Projetos-para-Equipes-de-Desenvolvimento-de-Software/assets/148576864/46711b9b-a509-4bae-8e42-9ba4fc9f7bb5)
+* A tela de login irá pedir o usuário e a senha
+
+
 ![prototipo01](https://github.com/gustavoantonioss/Sistema-de-Gest-o-de-Projetos-para-Equipes-de-Desenvolvimento-de-Software/assets/102526459/10fc23be-a81e-44d6-9adb-2ee8d3edf8ef)
 * A tela inicial irá mostrar o usuário com sua foto de perfil e as funcionalidades que ele tem, podendo criar uma nova tarefa, ver as tarefas em andamento e revisar todas que já fez ou está fazendo
 
